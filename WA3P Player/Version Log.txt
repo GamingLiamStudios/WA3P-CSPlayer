@@ -1,0 +1,5 @@
+﻿WA3P CSPlayer Version Log
+
+V0.0.1
+	Basic Frame
+	Text showing "Test"
