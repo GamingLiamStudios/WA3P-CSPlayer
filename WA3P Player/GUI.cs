@@ -28,7 +28,6 @@ namespace WA3PGUI {
             this.Text = "WA3P Player 0.0.1";
             this.Paint += new PaintEventHandler(Render);
             this.ResumeLayout(false);
-
         }
     }
 }
