@@ -25,7 +25,7 @@ namespace WA3PGUI {
             this.ClientSize = new Size(300, 200);
             this.FormBorderStyle = FormBorderStyle.FixedSingle;
             this.Name = "GUI";
-            this.Text = "WA3P Player 0.0.2";
+            this.Text = "WA3P Player 0.0.3";
             this.Paint += new PaintEventHandler(Render);
             this.ResumeLayout(false);
         }
