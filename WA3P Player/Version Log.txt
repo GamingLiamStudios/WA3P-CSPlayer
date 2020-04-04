@@ -2,3 +2,10 @@
 
 V0.0.1
 	Basic Frame with Text
+
+V0.0.2
+	Removed console
+
+V0.0.3
+	Added Toolbox
+	Created Basic GUI Layout
